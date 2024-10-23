@@ -4,6 +4,7 @@ tensorflow-hub==0.16.1
 scipy==1.11.2
 Sastrawi==1.0.1
 pandas==1.5.3
-scikit-learn==1.2.2
 numpy==1.26.0
-Cython>=0.29.36
+scikit-learn==1.1.2
+Cython==0.29.36
+scikit-learn --only-binary :all:
