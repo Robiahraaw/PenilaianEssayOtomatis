@@ -7,4 +7,3 @@ pandas==1.5.3
 numpy==1.26.0
 scikit-learn==1.1.2
 Cython==0.29.36
-scikit-learn --only-binary :all:
